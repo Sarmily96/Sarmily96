@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarmily Biswas</h1>
 <h3 align="center">An enthusiastic QA Engineer with a strong commitment to delivering high-quality software products.</h3>
 
-<img align="center" alt="coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyF78wLIXEppS1GpqfCVtp8pAZ9Qf3PNSmdQ&s">
+<img align="center" alt="coding" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyF78wLIXEppS1GpqfCVtp8pAZ9Qf3PNSmdQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmily96&label=Profile%20views&color=0e75b6&style=flat" alt="sarmily96" /> </p>
 
