@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarmily Biswas</h1>
-<h3 align="center">An enthusiastic QA Engineer with a strong commitment to delivering high-quality software products.</h3>
+<h3 align="center">A dedicated QA Engineer passionate about ensuring software excellence.</h3>
 
 <img align="center" alt="coding" width="1000" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
